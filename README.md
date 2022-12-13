@@ -1,0 +1,1 @@
+Click [here](https://gabenicholauson.github.io/GPS-tracker/) to view the page.
